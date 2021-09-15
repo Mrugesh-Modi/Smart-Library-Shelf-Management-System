@@ -11,3 +11,11 @@ It will manage the information about the shelves, books, faculties, and students
 also provide information regarding the misplaced book on the shelf by the book reader. 
 It will generate the different reports for the administrator and librarians also, this system 
 is customizable for any new library requirements. 
+
+Purpose
+
+To manage book, slot and shelf detail. 
+To get the location of a book as per the search query of reader. 
+Configure and reschedule of book location, if the new shelf is purchased in the library.  
+The graphical representation of the book location. 
+Reports on a number of the book in an unordered state. 
